@@ -1,6 +1,6 @@
 ### Hi there, welcome to my humble code 👋
-## Created this PyPI package that you may like : https://github.com/MavericksDS/pycorr
-## Follow my DS blogs on medium at : https://medium.com/@anuragkm25
+##### Created this PyPI package that you may like : https://github.com/MavericksDS/pycorr
+##### Follow my DS blogs on medium at : https://medium.com/@anuragkm25
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... https://github.com/MavericksDS/pycorr
